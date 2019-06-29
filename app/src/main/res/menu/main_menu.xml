@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Earth"
+        android:id="@+id/bota" ></item>
+    <item android:title="Bitcoin"
+        android:id="@+id/bitcoin"></item>
+    <item android:title="Technology"
+        android:id="@+id/teknologjia"></item>
+    <item android:title="Time"
+        android:id="@+id/time"></item>
+</menu>

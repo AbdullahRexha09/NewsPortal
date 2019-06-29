@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Portali</string>
+    
+    <string-array name="days">
+        <item>Select the Day</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>

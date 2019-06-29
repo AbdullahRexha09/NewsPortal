@@ -1,0 +1,48 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="MyAppBarLayoutTheme" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlHighlight">@color/colorAccent</item>
+    </style>
+    <!--//Style Toast-->
+    <style name="exampleToast">
+        <item name="colorBackground">#94ffab</item>
+        <item name="textColor">#000</item>
+        <item name="strokeColor">#000</item>
+        <item name="strokeWidth">3dp</item>
+        <item name="length">LONG</item>
+        <item name="cornerRadius">3dp</item>
+        
+    </style>
+    <style name="offline">
+        <item name="colorBackground">#FFA000</item>
+        <item name="textColor">#000</item>
+        <item name="strokeColor">#000</item>
+        <item name="strokeWidth">3dp</item>
+        <item name="length">LONG</item>
+        <item name="cornerRadius">3dp</item>
+
+    </style>
+    <style name="exampleToastError">
+        <item name="colorBackground">#FF0000</item>
+        <item name="textColor">#000</item>
+        <item name="strokeColor">#000</item>
+        <item name="strokeWidth">3dp</item>
+        <item name="length">LONG</item>
+        <item name="cornerRadius">3dp</item>
+
+    </style>
+
+
+</resources>
